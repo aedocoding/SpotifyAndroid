@@ -1,4 +1,7 @@
 {
   "name": "SpotifyAndroid",
-  "displayName": "SpotifyAndroid"
+  "displayName": "SpotifyAndroid",
+  "android": {
+    "package": "com.aedocoding.spotifyandroid"
+  }
 }
